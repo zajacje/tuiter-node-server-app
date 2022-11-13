@@ -9,4 +9,4 @@ app.use(express.json());
 TuitsController(app);
 HelloController(app);
 UserController(app);
-app.listen(4000);
+app.listen(process.env.PORT || 4000);
