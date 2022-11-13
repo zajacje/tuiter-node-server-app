@@ -28,7 +28,7 @@ export default [
     liked: true,
     disliked: false,
     likes: 2345,
-    dislikes: 10312,
+    dislikes: 9312,
     replies: 123,
     retuits: 432,
   },
